@@ -5,7 +5,7 @@ export default function Navbar({onSearch}) {
   return (
     <div>
         <nav className='navbar'>
-            <h1>ADFAR TMBD</h1>
+            <h1>TMBD</h1>
             <ul className='nav'>
                 <li>
                     <Link to="/">Home</Link>
